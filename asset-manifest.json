@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Ratnakar-Singh-parihar-123/TextUtils/static/css/main.31d6cfe0.css",
+    "main.js": "/Ratnakar-Singh-parihar-123/TextUtils/static/js/main.125228cb.js",
+    "static/js/453.ed3810f9.chunk.js": "/Ratnakar-Singh-parihar-123/TextUtils/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/Ratnakar-Singh-parihar-123/TextUtils/index.html",
+    "main.125228cb.js.map": "/Ratnakar-Singh-parihar-123/TextUtils/static/js/main.125228cb.js.map",
+    "453.ed3810f9.chunk.js.map": "/Ratnakar-Singh-parihar-123/TextUtils/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.31d6cfe0.css",
+    "static/js/main.125228cb.js"
+  ]
+}
