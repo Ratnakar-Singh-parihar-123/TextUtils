@@ -2,6 +2,9 @@
 
 ##<img width="1920" height="974" alt="textUtils" src="https://github.com/user-attachments/assets/15ef631e-ef9c-4373-afca-d557b5454cfe" />
 
+##<img width="1894" height="903" alt="textUtils2" src="https://github.com/user-attachments/assets/7fb265d9-1546-401b-a3f1-528f4b643ac9" />
+
+
 
 
 A powerful and interactive **React-based Text Utility App** that allows users to manipulate, analyze, and translate text with ease. This tool offers real-time editing, grammar correction, speech features, and multi-language translation — all within a single user interface.
