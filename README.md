@@ -1,6 +1,7 @@
 # 📝 Text Utility App (TextForm Component)
 
-##![Uploading textUtils.png…]()
+##<img width="1920" height="974" alt="textUtils" src="https://github.com/user-attachments/assets/15ef631e-ef9c-4373-afca-d557b5454cfe" />
+
 
 
 A powerful and interactive **React-based Text Utility App** that allows users to manipulate, analyze, and translate text with ease. This tool offers real-time editing, grammar correction, speech features, and multi-language translation — all within a single user interface.
